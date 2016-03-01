@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Molle:400italic);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+header {
+  font-size: 64px;
+
+}
+
+#JB1 {
+  font-size: 18px;
+  font-style: italic;
+  color: orange;
+  float: left;
+}
+
+#JB2 {
+  background-color: #134531;
+  color: white;
+  width: 25%;
+  float: right;
+}
+
+h2 {
+  padding: 15px;
+  border: 10px dotted #129485;
+  background-color: maroon;
+}
+
+h3 {
+  margin: 20px;
+  float: left;
+  width: 75%;
+  font-weight: 700;
+  font-family: "Molle", cursive;
+}
+
+#JB3 {
+  text-decoration: underline;
+  border: 20px solid #859385
+}
+
+h4 {
+font-weight: lighter;
+font-size: 32px;
+font-style: normal;
+}
+
+h5 {
+  margin: 10px;
+  letter-spacing: 10px;
+  text-decoration: line-through;
+}
+
+h6 {
+  text-align: right;
+  float: right;
+  padding-left: 25px;
+  font-size: 18px;
+  font-family: "Indie Flower", sans-serif;
+  color: #837104;
+  background-color: #468917;
+}
+
+a {
+  background-color: #135775;
+  color: white;
+}
+
+#JB4 {
+  width: 40%;
+  border: 6px solid grey;
+}
+
+#JB5 {
+  text-align: center;
+  width: 18%;
+  color: purple;
+  float: left;
+  font-size: 20px;
+}
+
+#JB6 {
+  width: 12%;
+  color: #556480;
+  float: left;
+  font-size: 15px;
+}
+
+li {
+  font-style: italic;
+  font-family: fantasy;
+  padding: 17px;
+  margin: 25%;
+}
+
+#therest {
+  text-align: justify;
+  font-family: monospace;
+  padding: 5px;
+  margin: 15px;
+}
