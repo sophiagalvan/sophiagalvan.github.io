@@ -1,0 +1,277 @@
+@import url(https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco);
+@import url(https://fonts.googleapis.com/css?family=Pompiere);
+@import url(https://fonts.googleapis.com/css?family=Nixie+One);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: "Sue Ellen Francisco", sans-serif;
+  color: #9492bc;
+  font-size: 60px;
+
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+  font-family: "Nixie One";
+}
+
+h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #9492bc;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+p {
+  color: black;
+  font-size: 16px;
+}
+
+
+#intro {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 10px;
+  font-family: "Nixie One";
+  font-size: 18px;
+  color: #a5c5d7;
+
+}
+
+#resumetext {
+}
+
+#headerimage {
+  padding: 0px;
+  float: left;
+}
+
+div.container-fluid {
+  padding: 0px;
+}
+
+div.container {
+  margin: 0px;
+  padding: 0px;
+}
+
+#resume {
+  padding: 15px;
+}
+
+#projects {
+  padding: 15px;
+}
+
+#about {
+  padding: 15px;
+}
+
+#connect {
+  padding: 15px;
+}
+
+a:hover {
+  color: #FAEEA7;
+}
+
+#personallogo {
+  padding: 20px;
+  filter: blur(0px);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+#personallogo:hover{
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(blur.svg#blur);
+
+}
+
+#commlogo {
+  padding: 20px;
+  padding-bottom: 39px;
+  filter: blur(0px);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+  text-align: center;
+}
+
+#commlogo:hover {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(blur.svg#blur);
+}
+
+#flyer {
+  padding: 20px;
+  padding-right: 30px;
+  padding-bottom: 8px;
+  filter: blur(0px);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+#flyer:hover {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(blur.svg#blur);
+}
+
+#csdclogo {
+  padding: 20px;
+  padding-bottom: 8px;
+  filter: blur(0px);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+#csdclogo:hover {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(blur.svg#blur);
+}
+
+
+#vid1 {
+  padding: 20px;
+  filter: blur(0px);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+#vid1:hover {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(blur.svg#blur);
+}
+
+#vid2 {
+  padding: 20px;
+  filter: blur(0px);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+#vid2:hover {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(blur.svg#blur);
+}
+
+#design {
+  text-align: center;
+  font-size: 48px;
+}
+
+#videography {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-decoration: none;
+}
+
+
+#biointro {
+  text-align: left;
+}
+
+#biotext {
+  text-align: left;
+  line-height: 25px;
+}
+
+#biopic {
+  margin: 30px;
+}
+
+#connecttitle {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+
+h4 {
+  border: 1px solid black;
+  padding: 0px;
+  margin: 0px;
+}
+
+#design2 {
+  margin-left: 25px;
+}
+
+#cltext {
+  padding-left: 15px;
+}
+
+#fblogo {
+  padding: 10px;
+}
+
+#twitterlogo {
+}
+
+#lilogo {
+  padding: 10px
+}
+
+#connectintro {
+  text-align: center;
+  line-height: 30px;
+  padding-bottom: 20px;
+}
